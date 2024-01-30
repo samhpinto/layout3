@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+header,
+footer {
+    height: 100px;
+    border: 5px solid;
+}
+
+.container>section {
+    height: 350px;
+    border: 5px solid;
+    float: left;
+}
+
+.twenty {
+    width: 20%;
+}
+
+.forty {
+    width: 40%;
+}
+
+footer {
+    clear: both;
+}
